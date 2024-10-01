@@ -1,0 +1,23 @@
+﻿@model IEnumerable<POECLDPart1.Models.Order>
+
+<h1>All Orders</h1>
+<a href="@Url.Action("AddOrder", "Orders")" class="btn btn-primary">Add New Order</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Customer ID</th>
+            <th>Soccer Boot ID</th>
+            <th>Total Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var order in Model)
+        {
+            <tr>
+                <td>@order.Customer_ID</td>
+                <td>@order.SoccerBoot_ID</td>
+                <td>@order.TotalPrice</td>
+            </tr>
+        }
+    </tbody>
+</table>

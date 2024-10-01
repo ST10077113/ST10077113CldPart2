@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Visual studio code\\POECLDPart1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7450A2B0-4D7D-42B2-BDA9-D3D7ED6091C7}|POECLDPart1\\POECLDPart1.csproj|c:\\visual studio code\\poecldpart1\\poecldpart1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7450A2B0-4D7D-42B2-BDA9-D3D7ED6091C7}|POECLDPart1\\POECLDPart1.csproj|solutionrelative:poecldpart1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7450A2B0-4D7D-42B2-BDA9-D3D7ED6091C7}|POECLDPart1\\POECLDPart1.csproj|c:\\visual studio code\\poecldpart1\\poecldpart1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7450A2B0-4D7D-42B2-BDA9-D3D7ED6091C7}|POECLDPart1\\POECLDPart1.csproj|solutionrelative:poecldpart1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7450A2B0-4D7D-42B2-BDA9-D3D7ED6091C7}|POECLDPart1\\POECLDPart1.csproj|c:\\visual studio code\\poecldpart1\\poecldpart1\\services\\functionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7450A2B0-4D7D-42B2-BDA9-D3D7ED6091C7}|POECLDPart1\\POECLDPart1.csproj|solutionrelative:poecldpart1\\services\\functionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7450A2B0-4D7D-42B2-BDA9-D3D7ED6091C7}|POECLDPart1\\POECLDPart1.csproj|c:\\visual studio code\\poecldpart1\\poecldpart1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7450A2B0-4D7D-42B2-BDA9-D3D7ED6091C7}|POECLDPart1\\POECLDPart1.csproj|solutionrelative:poecldpart1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7450A2B0-4D7D-42B2-BDA9-D3D7ED6091C7}|POECLDPart1\\POECLDPart1.csproj|c:\\visual studio code\\poecldpart1\\poecldpart1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7450A2B0-4D7D-42B2-BDA9-D3D7ED6091C7}|POECLDPart1\\POECLDPart1.csproj|solutionrelative:poecldpart1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Visual studio code\\POECLDPart1\\POECLDPart1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "POECLDPart1\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Visual studio code\\POECLDPart1\\POECLDPart1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "POECLDPart1\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAgAAAAAAQAAAAABwB8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T13:58:28.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Visual studio code\\POECLDPart1\\POECLDPart1\\appsettings.json",
+              "RelativeDocumentMoniker": "POECLDPart1\\appsettings.json",
+              "ToolTip": "C:\\Visual studio code\\POECLDPart1\\POECLDPart1\\appsettings.json",
+              "RelativeToolTip": "POECLDPart1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T12:09:18.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FunctionService.cs",
+              "DocumentMoniker": "C:\\Visual studio code\\POECLDPart1\\POECLDPart1\\Services\\FunctionService.cs",
+              "RelativeDocumentMoniker": "POECLDPart1\\Services\\FunctionService.cs",
+              "ToolTip": "C:\\Visual studio code\\POECLDPart1\\POECLDPart1\\Services\\FunctionService.cs",
+              "RelativeToolTip": "POECLDPart1\\Services\\FunctionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T11:31:51.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Visual studio code\\POECLDPart1\\POECLDPart1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "POECLDPart1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Visual studio code\\POECLDPart1\\POECLDPart1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "POECLDPart1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA4AAABAMzMzM7MUwCgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T22:07:17.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Visual studio code\\POECLDPart1\\POECLDPart1\\Program.cs",
+              "RelativeDocumentMoniker": "POECLDPart1\\Program.cs",
+              "ToolTip": "C:\\Visual studio code\\POECLDPart1\\POECLDPart1\\Program.cs",
+              "RelativeToolTip": "POECLDPart1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T08:36:28.587Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

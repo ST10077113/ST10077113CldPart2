@@ -1,0 +1,10 @@
+﻿<h2>Welcome, @User.Identity.Name!</h2>
+
+@if (User.Identity.IsAuthenticated)
+{
+    <p>Your email: @ViewBag.UserEmail</p>
+}
+else
+{
+    <p>Please log in to see your details.</p>
+}

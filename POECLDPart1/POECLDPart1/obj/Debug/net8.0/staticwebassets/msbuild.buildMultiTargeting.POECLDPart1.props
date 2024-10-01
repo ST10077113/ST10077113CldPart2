@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\POECLDPart1.props" />
+</Project>
