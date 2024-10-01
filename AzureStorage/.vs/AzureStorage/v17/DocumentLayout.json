@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jmaistry\\source\\repos\\AzureStorage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{310BBF2B-C51D-48A6-895A-D6C0B5B34AF9}|AzureStorage\\AzureStorage.csproj|c:\\users\\jmaistry\\source\\repos\\azurestorage\\azurestorage\\queuestoragefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{310BBF2B-C51D-48A6-895A-D6C0B5B34AF9}|AzureStorage\\AzureStorage.csproj|solutionrelative:azurestorage\\queuestoragefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{310BBF2B-C51D-48A6-895A-D6C0B5B34AF9}|AzureStorage\\AzureStorage.csproj|c:\\users\\jmaistry\\source\\repos\\azurestorage\\azurestorage\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{310BBF2B-C51D-48A6-895A-D6C0B5B34AF9}|AzureStorage\\AzureStorage.csproj|solutionrelative:azurestorage\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{310BBF2B-C51D-48A6-895A-D6C0B5B34AF9}|AzureStorage\\AzureStorage.csproj|c:\\users\\jmaistry\\source\\repos\\azurestorage\\azurestorage\\blobstoragefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{310BBF2B-C51D-48A6-895A-D6C0B5B34AF9}|AzureStorage\\AzureStorage.csproj|solutionrelative:azurestorage\\blobstoragefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{310BBF2B-C51D-48A6-895A-D6C0B5B34AF9}|AzureStorage\\AzureStorage.csproj|c:\\users\\jmaistry\\source\\repos\\azurestorage\\azurestorage\\tablestoragefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{310BBF2B-C51D-48A6-895A-D6C0B5B34AF9}|AzureStorage\\AzureStorage.csproj|solutionrelative:azurestorage\\tablestoragefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QueueStorageFunction.cs",
+              "DocumentMoniker": "C:\\Users\\jmaistry\\source\\repos\\AzureStorage\\AzureStorage\\QueueStorageFunction.cs",
+              "RelativeDocumentMoniker": "AzureStorage\\QueueStorageFunction.cs",
+              "ToolTip": "C:\\Users\\jmaistry\\source\\repos\\AzureStorage\\AzureStorage\\QueueStorageFunction.cs",
+              "RelativeToolTip": "AzureStorage\\QueueStorageFunction.cs",
+              "ViewState": "AQIAAAQAAACImZmZmVkqwBIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T11:25:59.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\jmaistry\\source\\repos\\AzureStorage\\AzureStorage\\local.settings.json",
+              "RelativeDocumentMoniker": "AzureStorage\\local.settings.json",
+              "ToolTip": "C:\\Users\\jmaistry\\source\\repos\\AzureStorage\\AzureStorage\\local.settings.json",
+              "RelativeToolTip": "AzureStorage\\local.settings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T11:22:33.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlobStorageFunction.cs",
+              "DocumentMoniker": "C:\\Users\\jmaistry\\source\\repos\\AzureStorage\\AzureStorage\\BlobStorageFunction.cs",
+              "RelativeDocumentMoniker": "AzureStorage\\BlobStorageFunction.cs",
+              "ToolTip": "C:\\Users\\jmaistry\\source\\repos\\AzureStorage\\AzureStorage\\BlobStorageFunction.cs",
+              "RelativeToolTip": "AzureStorage\\BlobStorageFunction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:54:10.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TableStorageFunction.cs",
+              "DocumentMoniker": "C:\\Users\\jmaistry\\source\\repos\\AzureStorage\\AzureStorage\\TableStorageFunction.cs",
+              "RelativeDocumentMoniker": "AzureStorage\\TableStorageFunction.cs",
+              "ToolTip": "C:\\Users\\jmaistry\\source\\repos\\AzureStorage\\AzureStorage\\TableStorageFunction.cs",
+              "RelativeToolTip": "AzureStorage\\TableStorageFunction.cs",
+              "ViewState": "AQIAAAMAAABQZ2ZmZmYKwA4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:28:34.765Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
